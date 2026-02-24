@@ -1,5 +1,6 @@
 # Burger Bay UAE – Sales & Operational Performance Transformation
-An end-to-end Business Intelligence solution built in Power BI to analyze sales performance, branch efficiency, seasonality trends, and operational behavior of a UAE-based multi-branch fast-food company.
+An end-to-end Business Intelligence solution built by utilizing Power BI, Oracle-SQL, and Excel to analyze sales performance, branch efficiency, seasonality trends, and operational behavior of a UAE-based multi-branch fast-food company.
+
 ![World GTCI](Screenshots/Scholarship%20Student's%20Test%20Report_page-0001.jpg)
 
 **[Click here to view the complete PDF report](Screenshots/Scholarship%20Student's%20Test%20Report.pdf)**
