@@ -1,5 +1,5 @@
 # Burger Bay UAE – Sales & Operational Performance Transformation
-An end-to-end Business Intelligence solution built by utilizing Power BI, Oracle-SQL, and Excel to analyze sales performance, branch efficiency, seasonality trends, and operational behavior of a UAE-based multi-branch fast-food company.
+An end-to-end Business Intelligence solution built using Power BI, Oracle SQL, and Excel to analyze sales performance, branch efficiency, seasonality trends, and operational behavior of a UAE-based multi-branch fast-food company.
 
 ![First Page](Screenshots/1.jpg)
 
@@ -201,9 +201,9 @@ The dashboard transformed raw data into structured business intelligence aligned
 
 ## 👤 Consultant
 
-**Atif Noorul Hasan**  
-Healthcare Analytics Consultant  
-Business Intelligence | Data Analytics | Dashboard Design  
-Website - atifdata.com
-Email – atif@atifdata.com
+Atif Noorul Hasan
+Healthcare Analytics Consultant
+Business Intelligence | Data Analytics | Dashboard Design
 
+🔗 Website – https://atifdata.com
+✉️ Email – atif@atifdata.com
