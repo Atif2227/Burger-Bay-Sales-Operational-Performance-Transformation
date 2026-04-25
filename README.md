@@ -5,7 +5,7 @@
 **Objective:** Analyze sales performance, branch efficiency, seasonality trends, and operational behavior of a Fast-Food Retail brand based in the UAE.
 
 ---
-
+## Introduction
 An end-to-end Business Intelligence solution built using Power BI, Oracle SQL, and Excel to analyze sales performance, branch efficiency, seasonality trends, and operational behavior of a UAE-based multi-branch fast-food company.
 
 ---
