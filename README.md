@@ -213,9 +213,9 @@ The dashboard transformed raw data into structured business intelligence aligned
 
 ## 👤 Consultant
 
-Atif Noorul Hasan
-Healthcare Analytics Consultant
-Business Intelligence | Data Analytics | Dashboard Design
+Atif Noorul Hasan <br />
+Healthcare Analytics Consultant <br />
+Business Intelligence | Data Analytics | Dashboard Design <br />
 
-🔗 Website – https://atifdata.com
+🔗 Website – https://atifdata.com <br />
 ✉️ Email – atif@atifdata.com
