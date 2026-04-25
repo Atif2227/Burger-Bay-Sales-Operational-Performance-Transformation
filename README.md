@@ -2,7 +2,7 @@
 ---
 **Role:** Lead Data Analyst, Consultant & AI Architect  
 **Domain:** Retail Analytics  
-**Objective:** Analyze sales performance, branch efficiency, seasonality trends, and operational behavior of a Fast-Food Retail Brand based in UAE.
+**Objective:** Analyze sales performance, branch efficiency, seasonality trends, and operational behavior of a Fast-Food Retail brand based in the UAE.
 
 ---
 
