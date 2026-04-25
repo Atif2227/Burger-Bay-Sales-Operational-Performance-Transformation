@@ -13,8 +13,6 @@ An end-to-end Business Intelligence solution built using Power BI, Oracle SQL, a
 
 👉 **[View Power BI Dashboard](https://app.powerbi.com/)** 
 
-👉 ![First Page](Screenshots/1.jpg)
-
 **[Click here to view the complete PDF report](Screenshots/BurgerBayPowerBIPDF.pdf)**
 
 ---
